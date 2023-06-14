@@ -35,6 +35,6 @@ jenkins:
           port: 22
           sshHostKeyVerificationStrategy: "nonVerifyingKeyVerificationStrategy"
       name: "agent17"
-      remoteFS: "/home/jenkins/agent17"
+      remoteFS: "/home/jenkins/agent"
       retentionStrategy: "always"
   
